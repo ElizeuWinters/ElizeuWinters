@@ -26,7 +26,10 @@
      </head>
             <body> 
                  <header>
-                        <img src ="">
+                        <img src ="/home/escola/html/Delsin_Rowe_Profile.webp">
+                        <h1>
+                         front-rnd
+                        </h1>
                 </header>                                  
                         <h1> 
                         curso de programação
@@ -39,4 +42,4 @@
                         </p>
                         <img src="/home/escola/html/husky_siberian-p.webp">
            </body>
-</html>       
+</html>           
