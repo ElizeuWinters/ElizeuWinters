@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
      <head>
-          <link rel="stylesheetes"
-           href="style.css">
+        <link rel="stylesheet" href="style.css">          
                           <meta charset="utf-8">
           <title> 
             moreira.html
@@ -26,7 +25,7 @@
      </head>
             <body> 
                  <header>
-                        <img src ="/home/escola/html/Delsin_Rowe_Profile.webp">
+                        <img src ="">
                         <h1>
                          front-rnd
                         </h1>
@@ -40,6 +39,6 @@
                         <p>  
                          programação mil grau
                         </p>
-                        <img src="/home/escola/html/husky_siberian-p.webp">
+                        <img src="">
            </body>
 </html>           
