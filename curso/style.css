@@ -1,0 +1,37 @@
+header {
+    background-position: center center;
+    background-size: cover;
+    background-color: black;   
+    border-style: solid;
+    border-width:4px ;
+    border-color:red;
+    border-radius: 4px;
+    
+}
+h1{background:none;}
+ div{
+    border: double rgb(red) ;
+    border-style: double;
+    border-width:10px;
+    border-color: rgb(black);
+    border-radius: 25px;
+    background-color: none;
+    color:black;
+    text-align:center;
+    color:black;
+ }
+    
+    
+ 
+ body {
+    background:white;
+    background-image: url(/tmp/guest-wrjv38/Downloads/ElizeuWinters-main/curso/b387f6cba0ac9af7b4eba22d2f84860c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+.class{
+    
+}
+   
