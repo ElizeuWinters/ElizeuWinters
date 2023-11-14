@@ -1,0 +1,28 @@
+body{
+    font-family: Arial,sans-serif;
+}
+
+.menu{
+    display: flex;
+    flex-direction:column;
+}
+
+.menu ul{
+    list-style: none;
+    padding:0;
+}
+
+.menu li{
+    margin-bottom: 10px;
+}
+
+@media only screen and (min-with:500px){
+    /*estilo para tela até 500 px*/
+}
+
+@media only screen and (min-with:900px){
+    /*estilos de telas até 900px*/
+}
+
+/*outros estilos comuns*/
+    
